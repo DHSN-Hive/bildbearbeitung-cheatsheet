@@ -80,8 +80,8 @@ Auswirkungen:
   - Großer f-Wert (z.B. f/16) → kleine Blende → weniger Licht → dunkleres Bild
 
 - Schärfentiefe
-  - Kleine f-Werte → große Blende → geringe Tiefenschärfe → Hintergrund verschwommen 
-  - Große f-Werte → kleine Blende → große Tiefenschärfe → alles scharf von vorne bis hinten
+  - Kleine f-Werte → große Blende → geringe Schärfentiefe → Hintergrund verschwommen 
+  - Große f-Werte → kleine Blende → große Schärfentiefe → alles scharf von vorne bis hinten
 
 Beispiel: f/1.8 für Portraits, f/11 für Landschaften
 
