@@ -95,3 +95,11 @@ Sensorarten die Moiré verhindern:
   - Vorteile: Kompakter, leichter, schnelleres Auslesen $->$ höhere Serienbildraten, weniger mechanische Teile, Live-Vorschau von Belichtung und Farben
   - Nachteile: Höherer Akkuverbrauch, Kein Originalbild durch Sucher, Latenz bei Anzeige möglich 
 
+
+== Daguerrotypie
+
+ - Nutzung der Lichtempfindlichkeit von Silbersalzen, versilberte Kupferplatte wird poliert anschließend mit Brom- und Jodsalzen bedampft $->$ lichtempfindliche Schicht entsteht
+
+ - Platte wird in Kamera belichtet und danach mit Quecksilberdampf entwickelt
+ - Resultat ist sehr detailreiches, empfindliches Unikat 
+
