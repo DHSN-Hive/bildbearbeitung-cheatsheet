@@ -67,6 +67,11 @@ Weitere Bestandteile
 
   - Klappt beim Auslösen hoch, damit Licht auf den Sensor fällt
 
+- Bildprozessor
+  - Verarbeitet die Sensordaten, steuert Belichtung, Autofokus, Bildstabilisierung
+  - Berechnet die Bilddatei (z.B. RAW oder JPEG), speichert es auf der Speicherkarte
+  - Beeinflusst die Geschwindigkeit der Kamera, Bildqualität und Funktionen wie Rauschunterdrückung, Serienbildaufnahme, Videoaufnahme
+
 == Kameratypen
 - Kompaktkameras (Pocket-Kameras)
   - größtenteils durch Smartphones abgelöst
