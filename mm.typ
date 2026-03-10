@@ -1,7 +1,3 @@
-Systemkameras: Spiegelreflex, Spiegellos
-
-
-
 *CCD (Charge Coupled Device) Sensorart*
 
 - Nutzt Photoelektrischen Effekt zur Umwandlung von Licht in Ladung
