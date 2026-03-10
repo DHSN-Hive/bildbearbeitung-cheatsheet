@@ -1,0 +1,1 @@
+raw, sensorformate, jpeg-komprimierung qualitätsverlust welche?, farbräume, farbtiefe, metadaten und urheber, wasserzeichen, exif,

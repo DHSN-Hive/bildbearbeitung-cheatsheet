@@ -1,0 +1,1 @@
+ APS, Mikrolinse und Backside Illumination, Zoomfaktor
