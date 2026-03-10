@@ -27,6 +27,10 @@
 
 = Bildbearbeitung Cheat Sheet
 
+Linksammlung:
+
+https://1drv.ms/w/c/eb8cc58a55d807f4/IQDXaxQHo0F-S6FEw2B4GWjJAVfpeAZQx9gHfehYC-Jx_zg
+
 == Kamera Aufbau
 
 #figure(image("img/camera.png", width: 50%))
