@@ -1,6 +1,6 @@
 == Sensoren
 
-*CCD (Charge Coupled Device) Sensorart*
+=== CCD (Charge Coupled Device) Sensorart
 
 - Nutzt Photoelektrischen Effekt zur Umwandlung von Licht in Ladung
 - Pixel als MOS-Kondensatoren in reihen angeordnet auf Hableiter
@@ -10,7 +10,7 @@
 
 - Nachteile: Langsames Auslesen, Nur komplettes Auslesen, Sättigung bei Überbelichtung + Blooming und Smearing, Aufwändige teure Elektronik
 
-*CMOS (Complementary Metal Oxide Semiconductor) Sensorart*
+=== CMOS (Complementary Metal Oxide Semiconductor) Sensorart
 
 - Nutzt Photoelektrischen Effekt zur Umwandlung von Licht in Ladung
 - Pixel sind Fotodioden, speichern Ladung
@@ -19,7 +19,7 @@
 
 - Nachteile: Pixel unterschiedlich empfindlich $->$ inhomogenes Bild, Fixed Pattern Noise, geringerer Füllfaktor als CCD durch Elektronikplatzbedarf
 
-*CMOS-Entwicklung*
+=== CMOS-Entwicklung
 
 - PPS (Passive Pixel Sensor)
  - frühere Bauform, Pixel direkt mit Ausleseelektronik verbunden, keine aktive Verstärkung im Pixel, Störanfällig durch hohe Impedanz, langsames Auslesen, geringer Füllfaktor $->$ geringe Quantenffizienz, mehr Rauschen, geringere Dynamik
@@ -40,7 +40,7 @@
   - Sensor in mehreren Schichten aufgebaut
   - Fotodioden und Elektronik separat gefertigt und gestapelt, ermöglicht mehr Elektronik, schnelleres Auslesen, höhere Bildraten
 
-*Bayerfilter*
+=== Bayerfilter
 
 - Farbfilter vor Pixeln im Mosaikmuster um Farbinformationen zu messen
 - Mosaikmuster R : G : B im Verhältnis 1 : 2 : 1
@@ -55,7 +55,7 @@
 
   - Adaptive Homogeneity Directed (AHD/IAHD): Interpolation horizontal und vertikal getrennt, danach wird die homogenere Richtung gewählt.
 
-*Abtasttheorem, Aliasing und Moiré*
+=== Abtasttheorem, Aliasing und Moiré
 
 Abtasttheorem: Abtastrate muss mindestens doppelt so hoch sein ist wie die höchste enthaltene Frequenz $->$ Motivstrukuren müssen mindestens von zwei Pixeln erfasst werden
 
@@ -85,7 +85,7 @@ Sensorarten die Moiré verhindern:
 - RGBW-Sensor
   - Filtermuster hat auch Pixel ohne Farbfilter, erhöht Lichtempfindlichkeit, reduziert Moiré
 
-*Spiegelreflex- und Spiegellose Kameras*
+== Spiegelreflex- und Spiegellose Kameras
 - Spiegelreflex DSLR
   - Licht trifft auf Spiegel, wird zum Sucher umgeleitet
   - Beim Auslösen klappt Spiegel um und Licht trifft auf Sensor
