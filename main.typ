@@ -29,11 +29,13 @@
 
 Linksammlung:
 
-https://1drv.ms/w/c/eb8cc58a55d807f4/IQDXaxQHo0F-S6FEw2B4GWjJAVfpeAZQx9gHfehYC-Jx_zg
+SVG: https://tinyurl.com/49m6x7dt
+
+Jonas: https://tinyurl.com/bdzj9wev
 
 == Kamera Aufbau
 
-#figure(image("img/camera.png", width: 50%))
+#figure(image("img/kamera.png", width: 50%))
 
 + Auslöser
   - Startet die Aufnahme
@@ -90,7 +92,7 @@ Beispiel: f/1.8 für Portraits, f/11 für Landschaften
 Maximale Lichstärke für größte Blendenöffnung eines Objektivs $->$ Öffungsverhältnis des Objektivs
 
 $F=("Brennweite" f) / ("Durchmesser Eintrittspupille" D) = f/D$
-#h(2em)Beispiel: $(120 "mm Brennweite") / (26,7 "mm Durchmesser") = 4,5 -> f = 1:4,5 -> f/4,5 "Blende"$
+#h(2em)Beispiel: $(120 "mm Brennweite") / (26,7 "mm Durchmesser") = 4,5 -> f = 1:4,5 -> f"/"4,5 "Blende"$
 
 *2. Belichtungszeit (Shutter Speed)*
 

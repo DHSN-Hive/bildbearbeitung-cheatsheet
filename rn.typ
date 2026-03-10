@@ -43,8 +43,15 @@ Die Software-Lösung: Korrektur durch Bildprozessor auf Softwarebasis
 - zwei Umsetzungsmöglichkeiten
   - Objektive mit Beschleunigungs- und Rotationssensor bewegen einen Teil der Linsen zum Ausgleich
   - Kameragehäuse mit Beschleunigungs- und Rotationssensor bewegen den Bildsensor (IBIS, In-Body Image Stabilization)
-#figure(image("img/IBIS.png"))
 - abschaltbar, wegen Artefakten bei Stativaufnahmen
+
+== Super-Resolution
+
+- Erhöhen des Informationsgehalts über normale Auflösung hinaus
+- Optical Super-Resolution: Überschreiten der durch Beugung im Objektiv und Lichtwellenlänge begrenzten Maximalauflösung (Mikroskop, Teleskop…)
+- Geometrical Super-Resolution: Überschreiten der durch Pixelgröße und Pixelanzahl gegebenen physischen Auflösungsgrenze eines Sensors
+  - In Digitalkameras realisiert, Berechnung hochauflösender Fotos aus mehreren Aufnahmen
+  - Überwindet Farbauflösungslimitierung des Bayer-Filters 
 
 == Pixel Shift Images
 
