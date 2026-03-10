@@ -139,6 +139,6 @@ Beispiel: Tageslicht für draußen, Glühbirne für Innenaufnahmen
   - Entsteht im Sensor auch ohne Licht und nimmt u. a. mit Temperatur und Belichtungszeit zu
   - in der Praxis wichtig bei Langzeitbelichtungen (Kameras werden teilweise heruntergekühlt)
 
-- Fixed Pattern Noise
+- Fixed Pattern Noise / Langzeitrauschen / Pixelrauschen
   - räumlich „fest“, durch defekt/beeinträchtigte Sensorpixel
   - kann durch Kalibrierung (Dunkelbild) teilweise korrigiert werden
