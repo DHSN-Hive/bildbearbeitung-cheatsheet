@@ -80,10 +80,17 @@ Auswirkungen:
   - Großer f-Wert (z.B. f/16) → kleine Blende → weniger Licht → dunkleres Bild
 
 - Schärfentiefe
-  - Kleine f-Werte → große Blende → geringe Schärfentiefe → Hintergrund verschwommen 
-  - Große f-Werte → kleine Blende → große Schärfentiefe → alles scharf von vorne bis hinten
+  - Kleine f-Werte → große Blende → geringe Tiefenschärfe → Hintergrund verschwommen 
+  - Große f-Werte → kleine Blende → große Tiefenschärfe → alles scharf von vorne bis hinten
 
 Beispiel: f/1.8 für Portraits, f/11 für Landschaften
+
+*Lichtstärke F*
+
+Maximale Lichstärke für größte Blendenöffnung eines Objektivs $->$ Öffungsverhältnis des Objektivs
+
+$F=("Brennweite" f) / ("Durchmesser Eintrittspupille" D) = f/D$
+#h(2em)Beispiel: $(120 "mm Brennweite") / (26,7 "mm Durchmesser") = 4,5 -> f = 1:4,5 -> f/4,5 "Blende"$
 
 *2. Belichtungszeit (Shutter Speed)*
 
