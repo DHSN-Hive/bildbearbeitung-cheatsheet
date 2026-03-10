@@ -1,3 +1,5 @@
+== Sensoren
+
 *CCD (Charge Coupled Device) Sensorart*
 
 - Nutzt Photoelektrischen Effekt zur Umwandlung von Licht in Ladung
@@ -102,6 +104,36 @@ Sensorarten die Moiré verhindern:
 
  - Platte wird in Kamera belichtet und danach mit Quecksilberdampf entwickelt
  - Resultat ist sehr detailreiches, empfindliches Unikat 
+
+== Fokus und Autofokus 
+
+Bereich des Bildes, der scharf abgebildet wird. Beim Autofokus wird dieser automatisch eingestellt.
+
+Aktiver Autofokus
+  - Kamera misst entfernung zum Motiv mit IR oder Ultraschall, nur für mäßige Entfernungen geeignet, Probleme mit Hindernissen wie Glas 
+
+Passiver Autofokus
+  - Verwendet Bildinformationen statt Entfernungsmessung
+  - Phasenvergleichsautofokus
+    - Licht wird an zwei versetzte Sensoren gelenkt, Kamera erkennt Fokus zu nah, zu fern, korrekt, sehr schnell, benötigt exakte Kalibrierung, nur bei lichtstarken Objektiven
+  - Kontrastautofokus
+     - Misst Kontrast an Motivkanten, maximaler Kontrast $->$ Fokus richtig, keine Kalibrierungsfehler, schlecht bei wenig Licht oder wenig Kontrast
+  - Hybridautofokus
+    - Kombination aus Phasen-AF und Kostrast-AF
+
+== Bildbearbeitungsworkflow
+
+Import $->$ Korrekturen $->$ Optimieren $->$ Cropping $->$ Metadaten $->$ Export
+
+== Schärfen
+
+Sensor bildet feine Kontrastunterschiede (hohe Ortsfrequenzen) nicht vollständig ab $->$ Kanten im Sensorbild weniger scharf. Durch Fourieranalyse werden Pixelwerte in Sinusfunktionen unterschiedlicher Frequenz umgewandelt.
+
+Anteil hoher Frequenzen im Bild erhöhen, unscharfe Kopie wird vom Original abgezogen
+
+Nachteil: Schärfeartefakte (Halos), verstärktes Bildrauschen
+
+
 
 
 
