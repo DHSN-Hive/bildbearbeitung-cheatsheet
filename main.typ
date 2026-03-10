@@ -140,6 +140,10 @@ Auswirkungen:
 
 Beispiel: Tageslicht für draußen, Glühbirne für Innenaufnahmen
 
+Manuelle Anpassung über zwei Regler in Photoshop
+- Farbtemperatur auf Farbachse Blau $<->$ Gelb
+- Farbton auf Farbachse Grün $<->$ Magenta
+
 == Rauscharten
 
 - Photonen-/Shot-Noise (Schrotrauschen)
