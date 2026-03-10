@@ -333,7 +333,7 @@ Sensorarten die Moiré verhindern:
 
 = Bilddateien
 == RAW
-- RAW-Dateien speichern genauen Wert jedes Sensorpixels nach demosaicing
+- RAW-Dateien speichern genauen Wert jedes Sensorpixels vor dem demosaicing
 - 12-14 Bit pro Farbkanal, hoher Speicherbedarf, proprietär, meist Herstellersoftware zum Öffnen nötig
 - Besitz beweist Urheberschaft an Bild
   - Fixed-Pattern-Noise, Pixelfehler, Kameratyp, zeitliche u. örtliche Eingrenzung der Aufnahmen
