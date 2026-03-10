@@ -142,3 +142,11 @@ Beispiel: Tageslicht für draußen, Glühbirne für Innenaufnahmen
 - Fixed Pattern Noise / Langzeitrauschen / Pixelrauschen
   - räumlich „fest“, durch defekt/beeinträchtigte Sensorpixel
   - kann durch Kalibrierung (Dunkelbild) teilweise korrigiert werden
+
+#include "mp.typ"
+
+#include "ml.typ"
+
+#include "mm.typ"
+
+#include "rn.typ"
