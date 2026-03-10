@@ -103,3 +103,6 @@ Sensorarten die Moiré verhindern:
  - Platte wird in Kamera belichtet und danach mit Quecksilberdampf entwickelt
  - Resultat ist sehr detailreiches, empfindliches Unikat 
 
+
+
+
